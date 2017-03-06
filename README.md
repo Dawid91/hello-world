@@ -1,2 +1,3 @@
 # hello-world
-First repository
+Hello ! I'm Dawid. 
+I've made somge changes.
